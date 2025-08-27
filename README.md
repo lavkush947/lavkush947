@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Lavkush Mishra
+🎓 B.Tech CSE | 💻 Aspiring Software Engineer | 🚀 Passionate about Web Development, AI, and Cloud
 
-<!--
-**lavkush947/lavkush947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages:** Python,C
+- **Web:** HTML, CSS
+- **Databases:** MySQL, MongoDB
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Python Assignments:
+### Python Basics
+https://github.com/lavkush947/Python-Basics-Assignment/blob/main/Python_Basics_Assignment.ipynb
+
+### Functions
+https://github.com/lavkush947/Functions-Assignment/blob/main/Functions_Assignment.ipynb
+---
+
+### Data Structures
+https://github.com/lavkush947/Python-Data-Structures-Assignment/blob/main/Python_Data_Structures_Assignment.ipynb
+---
+
+### OPPs 
+https://github.com/lavkush947/OOPs-Assignment/blob/main/Python_OPPs_Assignment.ipynb
+---
+
+### Files and Exceptional Handling
+https://github.com/lavkush947/Files-and-Exceptional-Handling-Assignment/blob/main/Files_and_Exceptional_Handling_Assignment.ipynb
+
+
+
+
+
