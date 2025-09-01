@@ -32,3 +32,7 @@ https://github.com/lavkush947/Data-Toolkit-Assignment/blob/main/Data_Toolkit_Ass
 
 
 
+## Machine Learning Assignments:
+### Feature Engineering
+https://github.com/lavkush947/Feature-Engineering-Assignment/blob/main/Feature_Engineering_Assignment.ipynb
+
