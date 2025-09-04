@@ -32,6 +32,14 @@ https://github.com/lavkush947/Data-Toolkit-Assignment/blob/main/Data_Toolkit_Ass
 
 
 
+
+## Statistics Assignments:
+### Statistics Basics Assignments
+https://github.com/lavkush947/Statistics-Basics-Assignment/blob/main/Statistics_Basics_Assignment.ipynb
+
+
+
+
 ## Machine Learning Assignments:
 ### Feature Engineering
 https://github.com/lavkush947/Feature-Engineering-Assignment/blob/main/Feature_Engineering_Assignment.ipynb
