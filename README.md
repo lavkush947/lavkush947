@@ -37,6 +37,8 @@ https://github.com/lavkush947/Data-Toolkit-Assignment/blob/main/Data_Toolkit_Ass
 ### Statistics Basics Assignments
 https://github.com/lavkush947/Statistics-Basics-Assignment/blob/main/Statistics_Basics_Assignment.ipynb
 
+### Statistics Advance - 1 Assignment
+https://github.com/lavkush947/Statistics-Advanced-1-Assignment/blob/main/Statistics_Advanced_1_Assignment.ipynb
 
 
 
