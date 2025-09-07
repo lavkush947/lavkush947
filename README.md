@@ -46,3 +46,6 @@ https://github.com/lavkush947/Statistics-Advanced-1-Assignment/blob/main/Statist
 ### Feature Engineering
 https://github.com/lavkush947/Feature-Engineering-Assignment/blob/main/Feature_Engineering_Assignment.ipynb
 
+### Regression & Its Evaluation
+https://github.com/lavkush947/Regression-Its-Evaluation-Assignment/blob/main/Regression_%26_Its_Evaluation_Assignment.ipynb
+
