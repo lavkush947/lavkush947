@@ -49,3 +49,9 @@ https://github.com/lavkush947/Feature-Engineering-Assignment/blob/main/Feature_E
 ### Regression & Its Evaluation
 https://github.com/lavkush947/Regression-Its-Evaluation-Assignment/blob/main/Regression_%26_Its_Evaluation_Assignment.ipynb
 
+### Logistic Regression
+https://github.com/lavkush947/Logistic-Regression-Assignment/blob/main/Logistic_Regression___Assignment.ipynb
+
+### Decision Tree
+https://github.com/lavkush947/Decision-Tree-Assignment/blob/main/Decision_Tree_Assignment.ipynb
+
