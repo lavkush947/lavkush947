@@ -55,3 +55,6 @@ https://github.com/lavkush947/Logistic-Regression-Assignment/blob/main/Logistic_
 ### Decision Tree
 https://github.com/lavkush947/Decision-Tree-Assignment/blob/main/Decision_Tree_Assignment.ipynb
 
+### SVM & Naive bayes
+https://github.com/lavkush947/SVM-Naive-bayes-Assignment/blob/main/SVM_%26_NaiveBayes_Assignment.ipynb
+
