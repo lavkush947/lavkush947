@@ -58,3 +58,6 @@ https://github.com/lavkush947/Decision-Tree-Assignment/blob/main/Decision_Tree_A
 ### SVM & Naive bayes
 https://github.com/lavkush947/SVM-Naive-bayes-Assignment/blob/main/SVM_%26_NaiveBayes_Assignment.ipynb
 
+### Ensemble Learning
+https://github.com/lavkush947/Ensemble-Learning-Assignment/blob/main/Ensemble_Learning_Assignment.ipynb
+
