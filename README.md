@@ -61,3 +61,6 @@ https://github.com/lavkush947/SVM-Naive-bayes-Assignment/blob/main/SVM_%26_Naive
 ### Ensemble Learning
 https://github.com/lavkush947/Ensemble-Learning-Assignment/blob/main/Ensemble_Learning_Assignment.ipynb
 
+### Boosting Techniques
+https://github.com/lavkush947/Boosting-Techniques-Assignment/blob/main/Boosting_Techniques_Assignment.ipynb
+
